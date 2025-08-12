@@ -25,5 +25,5 @@ The player has to guess a randomly generated number within a given range and lim
 ## 📂 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/udaycodess/Number-Guessing-game-by-Javascript.git
+  [ git clone https://github.com/udaycodess/Number-Guessing-game-by-Javascript.git](https://github.com/udaycodess/Number-Guessing-game-by-Javascript/tree/ea816516cc0052e3624826b60b9366b2de022362)
 2.Open the index.html file in your web browser.
