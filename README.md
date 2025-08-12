@@ -3,7 +3,6 @@
 A fun and interactive number guessing game built using **HTML**, **CSS**, and **JavaScript**.  
 The goal is simple — guess the secret number in as few attempts as possible!
 
-🔗 **Live Demo:** *(Add your GitHub Pages link here if you publish it)*  
 📂 **Source Code:** [Number Guessing Game](https://github.com/udaycodess/Number-Guessing-game-by-Javascript/tree/ea816516cc0052e3624826b60b9366b2de022362)
 
 ---
