@@ -39,4 +39,4 @@ The goal is simple — guess the secret number in as few attempts as possible!
 3. Open the index.html file in your preferred web browser.
 
 
-#this game will not work on mobile
+This game will not work on mobile
